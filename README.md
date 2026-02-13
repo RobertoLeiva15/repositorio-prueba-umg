@@ -1,6 +1,6 @@
 # Mi Opinión sobre GitHub for Students
 ## ¿Qué me parecen los beneficios?
-La verdad me parece muy bueno que GitHub ofrezca este programa para nosostros como estudiantes. Los beneficios nos dan acceso a muchas herramientas que serian de paga. Es una gran oportunidad para aprender y desarrollar habilidades que serán útiles en el futuro profesional.
+La verdad me parece muy bueno que GitHub ofrezca este programa para nosotros como estudiantes. Los beneficios nos dan acceso a muchas herramientas que serian de paga. Es una gran oportunidad para aprender y desarrollar habilidades que serán útiles en el futuro profesional.
 
 ## Herramientas que más me llamaron la atención
 Las herramientas que más me interesaron son:
